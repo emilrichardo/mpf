@@ -1,0 +1,40 @@
+
+body{}
+
+
+
+.navbar{
+	display: block!important;
+}
+
+/*
+.navbar>.container,body header  .navbar>.container-fluid{
+	    flex-wrap: nowrap!important;
+}*/
+
+
+
+
+
+@media (max-width:992px ) {
+	.nota-principal{}
+	.nota-principal h2{
+		font-size: 1.5rem;
+	}
+
+
+
+	.nota-secundaria{}
+	.nota-secundaria h4{
+		font-size: 1rem;
+	}
+
+
+	.contenido-fijo{}
+	.contenido-fijo h3{
+		font-size: 2rem;
+	}
+
+}/*992*/
+
+

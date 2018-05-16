@@ -1,0 +1,121 @@
+/*
+Theme personalizado para el ministerio publico fiscal
+Emil Gonzalez
+*/
+
+
+body{
+	font-family: 'Roboto', sans-serif!important;
+}
+
+.font2{
+	font-family: 'Raleway', sans-serif;
+}
+
+.font-serif{
+	font-family: 'Playfair Display', serif!important;
+}
+
+/*fondos*/
+html body .bg-dark, html body .badge-dark{
+	background-color: #090921!important;
+}
+
+html body .bg-succes,html body .badge-success{
+	background-color: #01DFA5!important;
+
+}
+
+html body .bg-info,html body .badge-info{
+	background-color: #81DAF5!important;
+
+}
+
+html body .bg-light,html body .badge-light{
+	background-color: #ececec!important;
+
+}
+
+
+html body .bg-primary,html body .badge-primary{
+	background-color: #1d1a63!important;
+
+}
+
+/*color de txt*/
+html body .text-dark{
+	color: #090921!important;
+}
+
+
+html body .text-info{
+	color: #81DAF5!important
+}
+
+
+html body .text-success{
+	color: #01DFA5!important
+}
+
+/*botones*/
+html body .btn{
+	
+}
+
+.btn-dark{}
+
+.btn-outline-light:hover{
+	color: #1d1a63!important
+}
+
+.btn-outline-dark{
+	border-color: #090921!important
+}
+
+
+.btn-outline-dark:hover{
+	background-color: #090921!important;
+	color: #fff!important;
+}
+
+
+.btn-outline-info{
+	border-color: #81DAF5!important;
+}
+
+.btn-info{
+	background-color: #81DAF5!important;
+	color: #090921!important;
+	border-color: #498c9b!important;
+}
+
+
+.btn-success{
+	background-color: #01DFA5!important;
+	border: 0!important;
+	color: #090921!important;
+}
+
+.btn-primary{
+	background-color: #1d1a63!important;
+	border: 0!important;
+	color: #fff!important;
+}
+
+
+.btn-primary:hover{
+	background-color: #090921!important;
+}
+
+/*badge*/
+html body .badge{
+	-webkit-border-radius: 2px!important;
+border-radius: 2px!important;
+}
+
+
+
+html body .border-secondary{
+	border-color: #eee!important
+}
+
