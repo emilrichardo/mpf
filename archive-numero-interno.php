@@ -51,7 +51,7 @@ $(document).ready(function(){
     array(      
       'post_type'=>'numero-interno', 
       'post_status'=>'publish',
-      
+      'posts_per_page'=>500,
       'order' => 'ASC',
       
           )

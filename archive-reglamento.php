@@ -58,7 +58,7 @@ Para conocer el régimen de licencias completo, se aconseja la lectura del capí
       'nopaging'  => false,
       'post_type'=>'reglamento', 
       'post_status'=>'publish', 
-      
+      'posts_per_page'=>5008,
       'order' => 'ASC',
        
         
